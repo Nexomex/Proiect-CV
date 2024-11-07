@@ -1,0 +1,46 @@
+.nume {
+    font-style: italic;
+}
+.menu {
+    background-color:lightgray;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    max-width: 800px;
+    text-align: center;
+    font-family: "Trebuchet MS";
+}
+
+
+
+a {
+    color:rgb(67, 98, 238);
+}
+
+a:hover {
+    color:rgb(0, 0, 161);
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+
+.subtitlu {
+    margin-top: -18px;
+    font-style: italic;
+
+}
+
+.outside {
+    list-style: disc inside;
+    margin: 0;
+    padding: 0;
+}
+
+.inside {
+    list-style: circle inside;
+    margin: 0;
+    padding: 0;
+}
