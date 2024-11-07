@@ -10,6 +10,7 @@
     max-width: 800px;
     text-align: center;
     font-family: "Trebuchet MS";
+    border-radius: 50px;
 }
 
 
@@ -41,6 +42,22 @@ img {
 
 .inside {
     list-style: circle inside;
-    margin: 0;
+    margin-top: 5px;
     padding: 0;
+}
+
+table, th, td{
+    
+    border: 2px solid rgb(27, 27, 27);
+    width: auto;
+    border-collapse: collapse;
+    
+}
+table {
+    margin-left:20%;
+    margin-right:20%;
+    margin-bottom: 15px;
+}
+th, td {
+    padding: 5px;
 }
